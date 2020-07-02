@@ -2,7 +2,7 @@
 <a href="https://ichef.bbci.co.uk"><img src="https://www.vishumoney.com/blog/wp-content/uploads/2019/04/Blog-VOTE-1-1-800x300.jpg" alt="FVCproductions"></a>
 ---
 ## Analysis of candidates in 2019 General Election in the Republic of India.
-## Prediction of a candidate winning the election based on his/her features using Logistic Regression Classification.
+## Prediction of a candidate winning the election based on his/her features using Logistic Regression and other classification algorithms.
 ## With over 600 Million voters voting for 8500+ candidates across 543 constituencies, the general elections in the world's largest democracy are a potential goldmine of data. 
 ### While there are existing separate analysis about the votes each candidate received and the personal information of each candidate, there was no comprehensive analysis that included both these information.
 ### Thus, this brief analysis will provide suitable insights into the election data.
