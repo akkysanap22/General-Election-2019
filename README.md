@@ -35,4 +35,4 @@
 ---
 ## NB_Viewer
 ### For analysis and insights click <a href="https://github.com/akkysanap22/General-Election-2019/blob/master/General-Election-Analysis.ipynb">here</a>
-### For model prediction click  <a href="https://nbviewer.jupyter.org/github/anurag-ux/2019-general-election/blob/master/prediction_model.ipynb">here</a>
+### For model prediction click  <a href="https://github.com/akkysanap22/General-Election-2019/blob/master/Winner%20Prediction%20Model.ipynb">here</a>
